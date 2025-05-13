@@ -1,1 +1,2 @@
 This project is about learning Git.
+This is a part of an assigment
